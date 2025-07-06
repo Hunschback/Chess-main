@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a825e26ebf9b98438458799bee431b8, type: 3}
+  m_Name: French
+  m_EditorClassIdentifier: 
+  startingPositions:
+  - whitePrefab: {fileID: 8536762951584205591, guid: 27feb85d0121dc444b605bf9bbcddf97,
+      type: 3}
+    blackPrefab: {fileID: 7198995161754567117, guid: 70624fc5b1b1a6048a0577744f15a2f8,
+      type: 3}
+    gridPos: {x: 0, y: 1}
+    isWhite: 1
+  - whitePrefab: {fileID: 8536762951584205591, guid: 27feb85d0121dc444b605bf9bbcddf97,
+      type: 3}
+    blackPrefab: {fileID: 7198995161754567117, guid: 70624fc5b1b1a6048a0577744f15a2f8,
+      type: 3}
+    gridPos: {x: 1, y: 1}
+    isWhite: 1
+  - whitePrefab: {fileID: 8536762951584205591, guid: 27feb85d0121dc444b605bf9bbcddf97,
+      type: 3}
+    blackPrefab: {fileID: 7198995161754567117, guid: 70624fc5b1b1a6048a0577744f15a2f8,
+      type: 3}
+    gridPos: {x: 2, y: 1}
+    isWhite: 1
+  - whitePrefab: {fileID: 8536762951584205591, guid: 27feb85d0121dc444b605bf9bbcddf97,
+      type: 3}
+    blackPrefab: {fileID: 7198995161754567117, guid: 70624fc5b1b1a6048a0577744f15a2f8,
+      type: 3}
+    gridPos: {x: 3, y: 1}
+    isWhite: 1
+  - whitePrefab: {fileID: 8536762951584205591, guid: 27feb85d0121dc444b605bf9bbcddf97,
+      type: 3}
+    blackPrefab: {fileID: 7198995161754567117, guid: 70624fc5b1b1a6048a0577744f15a2f8,
+      type: 3}
+    gridPos: {x: 4, y: 1}
+    isWhite: 1
+  - whitePrefab: {fileID: 8536762951584205591, guid: 27feb85d0121dc444b605bf9bbcddf97,
+      type: 3}
+    blackPrefab: {fileID: 7198995161754567117, guid: 70624fc5b1b1a6048a0577744f15a2f8,
+      type: 3}
+    gridPos: {x: 5, y: 1}
+    isWhite: 1
+  - whitePrefab: {fileID: 8536762951584205591, guid: 27feb85d0121dc444b605bf9bbcddf97,
+      type: 3}
+    blackPrefab: {fileID: 7198995161754567117, guid: 70624fc5b1b1a6048a0577744f15a2f8,
+      type: 3}
+    gridPos: {x: 6, y: 1}
+    isWhite: 1
+  - whitePrefab: {fileID: 8536762951584205591, guid: 27feb85d0121dc444b605bf9bbcddf97,
+      type: 3}
+    blackPrefab: {fileID: 7198995161754567117, guid: 70624fc5b1b1a6048a0577744f15a2f8,
+      type: 3}
+    gridPos: {x: 7, y: 1}
+    isWhite: 1
+  - whitePrefab: {fileID: 6735239365383164313, guid: 7f9af49329af0cc4bb086465ea889b9b,
+      type: 3}
+    blackPrefab: {fileID: 4391332316633105454, guid: a8fee9052d5fbf749976ddf2616e9f5e,
+      type: 3}
+    gridPos: {x: 0, y: 0}
+    isWhite: 1
+  - whitePrefab: {fileID: 6735239365383164313, guid: 7f9af49329af0cc4bb086465ea889b9b,
+      type: 3}
+    blackPrefab: {fileID: 4391332316633105454, guid: a8fee9052d5fbf749976ddf2616e9f5e,
+      type: 3}
+    gridPos: {x: 7, y: 0}
+    isWhite: 1
+  - whitePrefab: {fileID: 2703212711114600937, guid: b433e2a7c4b0dcd45bb33dc606993487,
+      type: 3}
+    blackPrefab: {fileID: 3035057802110314173, guid: 5fb001d7eb7445143a2d7912d1785659,
+      type: 3}
+    gridPos: {x: 1, y: 0}
+    isWhite: 1
+  - whitePrefab: {fileID: 2703212711114600937, guid: b433e2a7c4b0dcd45bb33dc606993487,
+      type: 3}
+    blackPrefab: {fileID: 3035057802110314173, guid: 5fb001d7eb7445143a2d7912d1785659,
+      type: 3}
+    gridPos: {x: 6, y: 0}
+    isWhite: 1
+  - whitePrefab: {fileID: 8034451676647241900, guid: 9439f6d7c8bbba3438ba77676b435d44,
+      type: 3}
+    blackPrefab: {fileID: 695979267873974599, guid: 7a4bb3bd4ce30ea4898c9fcb22871574,
+      type: 3}
+    gridPos: {x: 2, y: 0}
+    isWhite: 1
+  - whitePrefab: {fileID: 8034451676647241900, guid: 9439f6d7c8bbba3438ba77676b435d44,
+      type: 3}
+    blackPrefab: {fileID: 695979267873974599, guid: 7a4bb3bd4ce30ea4898c9fcb22871574,
+      type: 3}
+    gridPos: {x: 5, y: 0}
+    isWhite: 1
+  - whitePrefab: {fileID: 985523258045159727, guid: b0d3a38bd0904414587e7246dde06d0f,
+      type: 3}
+    blackPrefab: {fileID: 2232296951195521493, guid: 2fa9733dc7bea9741bd9e03ef0ee83ee,
+      type: 3}
+    gridPos: {x: 3, y: 0}
+    isWhite: 1
+  - whitePrefab: {fileID: 684693020225348644, guid: 7c621d5ecf2ee8145bdf8ec5d34ec260,
+      type: 3}
+    blackPrefab: {fileID: 4372070466540306600, guid: 8ef64837a0c4aaf408aebad03b134bea,
+      type: 3}
+    gridPos: {x: 4, y: 0}
+    isWhite: 1
